@@ -1,7 +1,0 @@
-Sector,S_hu-100,S_ag-100,S_ww-100,S_pt-100
-agriculture,0,0,1,1
-industry,0,1,1,0
-large-wastewater,0,1,0,0
-small-wastewater,0,1,1,1
-urban,0,1,1,1
-background,1,1,1,1
